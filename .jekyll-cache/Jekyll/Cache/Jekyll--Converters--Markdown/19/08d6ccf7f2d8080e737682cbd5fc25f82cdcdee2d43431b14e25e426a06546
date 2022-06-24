@@ -1,0 +1,14 @@
+I"Ü<div id="main" role="main">			
+	<div class="wrap">
+		
+		<div class="page-feature">
+			<div class="page-image">
+				<img src="http://localhost:4000/images/feature-image-filename.jpg" class="page-feature-image" alt="" />
+				<div class="image-credit">Image source: <a href="https://mademistakes.com" itemprop="citation">Michael Rose</a></div><!-- /.image-credit -->
+			</div><!-- /.page-image -->
+		</div><!-- /.page-feature -->
+		
+	</div><!-- /.wrap -->
+</div>
+<!-- /#main -->
+:ET
