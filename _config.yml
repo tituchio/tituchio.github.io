@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: "Titus Damaiyanti"
-description: "Titus's blog."
+description: "This is titus github page"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
@@ -25,7 +25,7 @@ plugins:
 
 
 # Site owner
-owner: "Titus Damaiyanti"
+owner: 
   name:
   email:
   twitter:
