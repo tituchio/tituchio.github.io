@@ -1,4 +1,4 @@
-# My Githhub page
+# My Github page
 
 ...on working progress
 
