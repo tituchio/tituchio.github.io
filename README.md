@@ -14,10 +14,3 @@ Just a little something I'm using to jump start a site refresh. I like to think 
 * Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
 * And more.
 
-## More Jekyll Themes
-
-Check out my more popular Jekyll themes, available as Ruby gems and 100% GitHub Pages compatible.
-
-* [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
-* [So Simple](https://github.com/mmistakes/so-simple-theme)
-* [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
