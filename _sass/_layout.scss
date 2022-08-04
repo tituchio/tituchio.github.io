@@ -139,6 +139,41 @@
 }
 
 /*
+   Hero / Header
+   ========================================================================== */
+
+   .header-home{
+	display: block;
+	margin: 50px auto;
+	text-align: center;
+	position: relative;
+	z-index: 1;
+}
+
+.selfie {
+	width: 200px;
+    margin-bottom: 25px;
+    border-radius: 100%;
+    box-shadow: 0;
+    opacity: 1;
+}
+
+.header-home > .description {
+	font-size: 18px;
+	color:  #71716f;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	margin: 3px;
+}
+
+.social-links a {
+	text-decoration:none;
+}
+
+.social-links i {
+	transition: none;
+}
+
+/*
    Main content
    ========================================================================== */
 
